@@ -1,7 +1,5 @@
 # code.py
 # A terminal-based application to process and plot data based on given user input and provided csv files.
-# Jehan Pinaroc (UCID:30141824)
-# MD Sakil AL Mahmud (UCID:30163616)
 
 #importing all the python libraries 
 import numpy as np
